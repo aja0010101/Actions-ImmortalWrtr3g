@@ -18,4 +18,4 @@
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 
 # Add custom feeds source
-echo 'src-git aliyundrive https://github.com/messense/aliyundrive-fuse/tree/main/openwrt' >>feeds.conf.default
+#echo 'src-git ' >>feeds.conf.default

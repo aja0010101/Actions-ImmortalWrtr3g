@@ -17,6 +17,8 @@
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 echo 'src-git bypass https://github.com/kiddin9/openwrt-bypass' >>feeds.conf.default
+echo 'src-git aliyunwebdav https://github.com/jerrykuku/luci-app-go-aliyundrive-webdav' >>feeds.conf.default
+
 
 # Add custom feeds source
 #echo 'src-git ' >>feeds.conf.default
